@@ -14,3 +14,4 @@
 [modrinth page](https://modrinth.com/mod/more-spear-enchantments)
 
 [github mirror](https://github.com/sillyangel/more-spear-enchants/)
+
