@@ -65,7 +65,7 @@ public class SpearEnchantments {
         registry.register(
                 VAMPIRIC,
                 builder -> builder
-                        .description(Component.text("Vampiric"))
+                        .description(Component.translatable("enchantment.more_spear_enchantments.vampiric", "Vampiric"))
                         .maxLevel(3)
                         .weight(2)
                         .minimumCost(EnchantmentRegistryEntry.EnchantmentCost.of(10, 8))
@@ -80,7 +80,7 @@ public class SpearEnchantments {
         registry.register(
                 EXPLOSIVE,
                 builder -> builder
-                        .description(Component.text("Explosive"))
+                        .description(Component.translatable("enchantment.more_spear_enchantments.explosive", "Explosive"))
                         .maxLevel(3)
                         .weight(1)
                         .minimumCost(EnchantmentRegistryEntry.EnchantmentCost.of(20, 10))
@@ -95,7 +95,7 @@ public class SpearEnchantments {
         registry.register(
                 LIGHTNING,
                 builder -> builder
-                        .description(Component.text("Lightning"))
+                        .description(Component.translatable("enchantment.more_spear_enchantments.lightning", "Lightning"))
                         .maxLevel(3)
                         .weight(2)
                         .minimumCost(EnchantmentRegistryEntry.EnchantmentCost.of(15, 9))
@@ -110,7 +110,7 @@ public class SpearEnchantments {
         registry.register(
                 CRIPPLING,
                 builder -> builder
-                        .description(Component.text("Crippling"))
+                        .description(Component.translatable("enchantment.more_spear_enchantments.crippling", "Crippling"))
                         .maxLevel(3)
                         .weight(2)
                         .minimumCost(EnchantmentRegistryEntry.EnchantmentCost.of(10, 8))
@@ -125,7 +125,7 @@ public class SpearEnchantments {
         registry.register(
                 POISON,
                 builder -> builder
-                        .description(Component.text("Poison"))
+                        .description(Component.translatable("enchantment.more_spear_enchantments.poison", "Poison"))
                         .maxLevel(3)
                         .weight(2)
                         .minimumCost(EnchantmentRegistryEntry.EnchantmentCost.of(10, 8))
@@ -140,7 +140,7 @@ public class SpearEnchantments {
         registry.register(
                 WITHERING,
                 builder -> builder
-                        .description(Component.text("Withering"))
+                        .description(Component.translatable("enchantment.more_spear_enchantments.withering", "Withering"))
                         .maxLevel(3)
                         .weight(1)
                         .minimumCost(EnchantmentRegistryEntry.EnchantmentCost.of(15, 9))
