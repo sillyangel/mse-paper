@@ -1,5 +1,5 @@
 name: MoreSpearEnchantments
-version: 1.1.0
+version: 1.1.1
 main: dev.sillyangel.more_spear_enchantments.MoreSpearEnchantments
 bootstrapper: dev.sillyangel.more_spear_enchantments.SpearEnchantmentsBootstrap
 description: more enchantments for the newly added spear from the Mounts of Mayhem update
